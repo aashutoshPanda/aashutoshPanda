@@ -1,5 +1,5 @@
 <h3 align="center" >Medium Articles : https://medium.com/@iamashutoshpanda </h3>
-<h2 align="center" >Checkout Project  : https://nimbus-nest.netlify.app/ </h2>
+<h2 align="center" >Checkout  : https://nimbus-nest.netlify.app/ </h2>
 <h3 align="center" >Repo  : https://github.com/aashutoshPanda/nimbus-nest </h3>
 <p align="center">
   <a href="https://ibb.co/2cyxSwk">
