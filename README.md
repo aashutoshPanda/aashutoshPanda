@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Panda!</h1>
-<h3 align="center">A passionate full-stack developer from India, I mostly work with Python & JavaScript.</h3>
+<h1 align="center">Hi 👋, I'm Ashutosh</h1>
+<h3 align="center">A passionate full-stack developer from India, with expertise in Python & JavaScript!</h3>
 
 - 🔭 I’m working at D.E. Shaw as a Senior Member of the Techincal Staff.
 - 🌱 I completed my B.Tech. in Information Technology from NIT Raipur in 2022.
 - 👯 Check out my projects down below!
-- 📫 How to reach me: **iamashutoshpanda@gmail.com**
+- 📫 Best way to reach out to me: **iamashutoshpanda@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -13,6 +13,9 @@
 </a>
 <a href="mailto:iamashutoshpanda@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://iamashutoshpanda.medium.com">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Gmail">
 </a>
 </div>
 
@@ -63,13 +66,14 @@
        <li><h2>TailorResume.AI</h2></li>
        <li>Live application: <a href="https://tailor-resume-ai.netlify.app">tailor-resume-ai.netlify.app</a></li>
        <li>Code: <a href="https://github.com/aashutoshPanda/tailor-resume-ai">aashutoshPanda/tailor-resume-ai</a></li>
+       <li>Wireframe: <a href="https://www.figma.com/file/GxuX8FxP5UWVFho9PPrcxJ/TailorMyResume-Material-3-Design?type=design&node-id=54725%3A27727&mode=design&t=g5eMDLaZ9TifUZ1i-1">Figma wireframe Material UI</a></li>
        <li>Resume building & job tracking platform with multiple resume templates & AI support to make your resume stand out!</li>
        <li>
           Tech Stack
           <ul>
               <li>React.js, Redux Toolkit, Material UI</li>
               <li>Express.js & MongoDB</li>
-              <li>Other: Jest, Cloudinary, OpenAI, Docker, Sentry</li>
+              <li>Other: Figma, Jest, Cloudinary, OpenAI, Docker, Sentry</li>
           </ul>
       </li>
      </ul>
