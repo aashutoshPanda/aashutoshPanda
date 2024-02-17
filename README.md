@@ -3,7 +3,7 @@
 
 - 🔭 I’m working at D.E. Shaw as a Senior Member of the Techincal Staff.
 - 🌱 I completed my B.Tech. in Information Technology from NIT Raipur in 2022.
-- 👯 Check out my projects down below!
+- 🚀 Check out my projects down below!
 - 📫 Best way to reach out to me: **iamashutoshpanda@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
